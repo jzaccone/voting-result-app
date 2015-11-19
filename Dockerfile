@@ -1,4 +1,5 @@
 FROM node:0.10
+MAINTAINER john.zaccone@gmail.com
 
 RUN mkdir /app
 WORKDIR /app
